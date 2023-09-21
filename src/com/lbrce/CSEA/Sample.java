@@ -10,10 +10,18 @@ public class Sample {
 		// TODO Auto-generated method stub
          System.out.println("This is TeamMember:vasavi");
 	}
+	public static void hema() {
+		// TODO Auto-generated method stub
+         System.out.println("This is TeamMember:Hema");
+	}
 	public static void main(String args[])
 	{
 		janu();
+
+		hema();
+
 		vasavi();
+
 	}
 
 }
